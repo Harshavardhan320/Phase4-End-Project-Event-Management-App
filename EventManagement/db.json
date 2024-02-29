@@ -1,0 +1,40 @@
+{
+  "employee": [
+    {
+      "firstname": "harsha",
+      "lastname": "sindhu",
+      "email": "sunnyharsha@gmail.com",
+      "id": "d864"
+    },
+    {
+      "id": "92d1",
+      "firstname": "ranadeep",
+      "lastname": "mphasis",
+      "email": "mphasis@gmail.com"
+    },
+    {
+      "id": "1828",
+      "firstname": "vardhan",
+      "lastname": "harsha",
+      "email": "sunnyharsha32@gmail.com"
+    },
+    {
+      "id": "ff52",
+      "firstname": "sdfsdfsdfsdfsdf",
+      "lastname": "vardhan",
+      "email": "sunnyharsha32@gmail.com"
+    },
+    {
+      "id": "bd00",
+      "firstname": "katukojwala",
+      "lastname": "Venkanna",
+      "email": "sunnyharshaas123@gmail.com"
+    },
+    {
+      "id": "ef94",
+      "firstname": "katukojwala",
+      "lastname": ".vani",
+      "email": "vani@gmail.com"
+    }
+  ]
+}
